@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+}
+
+.clearfix::after {
+    clear:both;
+    content:"";
+    display:block;
+}
+
+.fixed {
+    background: #4aaaa5;
+    padding: 40px;
+    width: 150px;
+    float:left;
+}
+
+.links {
+    background: #ffffff;
+float: right;
+}
+
+body {
+    width: 960px;
+    padding: 20px;
+    margin: 0 auto;
+}
