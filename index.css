@@ -8,6 +8,12 @@
     display:block;
 }
 
+header {
+    background: #ffffff;
+    border-bottom: #cccccc 2px solid;
+   width: 1280;
+}
+
 .fixed {
     background: #4aaaa5;
     color: #ffffff;
@@ -22,8 +28,10 @@
 
 .links {
     background: #ffffff;
+    color: #cccccc;
 float: right;
 padding: 40px;
+font-size: 16px;
 font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
@@ -32,9 +40,20 @@ body {
     padding: 20px;
     margin: 0 auto;
     font-family: 'Arial', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    background: #cccccc;
 }
 
 h2 {
     color: #4aaaa5;
     font-family: 'Georgia', 'Times New Roman', Times, serif;
+    padding: 20px;
+    border-bottom: 2px solid #cccccc;
+}
+
+img {
+    padding: 20px;
+}
+
+.container {
+    background: #ffffff;
 }
