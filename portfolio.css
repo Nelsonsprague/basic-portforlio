@@ -103,3 +103,43 @@ padding: 20px;
     font-family: 'Georgia', Times, 'Times new roman', sans-serif;
     right: 0;
 }
+.wolf {
+    position: absolute;
+    padding: 20px;
+    background: #4aaaa5;
+    color: #ffffff;
+    width: 350px;
+    text-align: center;
+    margin: 20px;
+    font-size: 20px;
+    font-family: 'Georgia', Times, 'Times new roman', sans-serif;
+    right: 0;
+float: right;
+}
+
+.beav {
+    position: absolute;
+    padding: 20px;
+    background: #4aaaa5;
+    color: #ffffff;
+    width: 350px;
+    text-align: center;
+    margin: 20px;
+    font-size: 20px;
+    font-family: 'Georgia', Times, 'Times new roman', sans-serif;
+    right: 0;
+}
+
+.lion {
+    position: absolute;
+    padding: 20px;
+    background: #4aaaa5;
+    color: #ffffff;
+    width: 350px;
+    text-align: center;
+    margin: 20px;
+    font-size: 20px;
+    font-family: 'Georgia', Times, 'Times new roman', sans-serif;
+    right: 0;
+    
+}
