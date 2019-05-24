@@ -51,9 +51,10 @@ h2 {
     line-height: 150%;
 }
 
+
 .container {
     background: #ffffff;
-    padding: 0px;
+    padding: 20px;
     
 }
 
@@ -62,5 +63,4 @@ footer {
 background: #666666;
 border-top: 5px solid #4aaaa5;
 padding: 20px;
-align:
 }
